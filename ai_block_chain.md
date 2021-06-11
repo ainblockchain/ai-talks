@@ -1,0 +1,33 @@
+# 21/06/12 블록체인과 인공지능이 만나면 어떤 일이 일어날까 @ Clubhouse
+
+- 클럽하우스 시간: 21/06/12 토요일 22:00 - 23:30 (KST)
+- 클럽하우스 링크: https://www.clubhouse.com/event/MRnXX9X5
+
+# 1. AI Talks 주제 소개
+- 블록체인과 인공지능이 만나면 어떤 일이 일어날까 
+
+# 2. AI Talks 스피커 소개 (각 1분 미만)
+패널: 김민현 AI 네트워크 창업자, 김지윤 DSRV 대표, 신지은 아나운서     
+
+# 3. AI Talks 내용
+
+Q. 1. 블록체인 산업 어디까지 왔나? 블록체인에 매료된 계기  
+Q. 2. 블록체인 플랫폼 DSRV가 AI 네트워크(블록체인 기반 인공지능 플랫폼 AIN 노드)를 추가한 이유  
+Q. 3. AI 네트워크는 어떻게 블록체인과 인공지능을 결합했나  
+Q. 4. DSRV 플랫폼에 셀로, 테라 등은 어떻게 노드를 운영하고 있는가  
+Q. 5. 블록체인이란 무엇인가  
+Q. 6. 비트코인, 이더리움과 블록체인의 관계  
+Q. 7. 블록체인과 인공지능은 어떻게 협업할 수 있는가  
+Q. 8. 가능한 시너지, 생길 수 있는 부작용은 없는가  
+
+# 4. 질의 응답 및 토론 
+- 궁금한 점 질문 또는 자유롭게 토론  
+
+# 5. 마무리   
+- 다음 클럽하우스 일정 및 주제 소개  
+
+# 참고 자료 
+[AI Network White Paper](https://ai-network.medium.com/ai-network-white-paper-e6d551c3f9ad)  
+[AI Network x DSRV Platform is now LIVE!](https://medium.com/ai-network/ai-network-x-dsrv-platform-is-now-live-c6698115c507)  
+
+
